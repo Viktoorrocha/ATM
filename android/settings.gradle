@@ -1,0 +1,3 @@
+rootProject.name = 'ATM'
+
+include ':app'
